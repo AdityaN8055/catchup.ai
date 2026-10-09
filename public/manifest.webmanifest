@@ -1,0 +1,12 @@
+{
+  "name": "CatchUp AI — Know what matters",
+  "short_name": "CatchUp",
+  "description": "Private, on-device briefings for your WhatsApp and Telegram chats.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1118",
+  "theme_color": "#0b1118",
+  "icons": [
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
